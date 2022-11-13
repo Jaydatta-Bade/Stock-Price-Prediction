@@ -8,6 +8,8 @@
 - predict test data and plot the output
 - predict future 10 days price and plot output
 
+LSTM Ref. - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 <hr>
 
 # Stock Price Prediction using ARIMA and SARIMA
