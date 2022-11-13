@@ -7,3 +7,15 @@
 - create an stacked LSTM model
 - predict test data and plot the output
 - predict future 10 days price and plot output
+
+<hr>
+
+# Stock Price Prediction using ARIMA and SARIMA
+- Autoregressive Integrated Moving Averages
+
+### Steps -
+- Visualize the Time Series Data
+- Make the time series data stationary
+- Plot the Correlation and AutoCorrelation Charts
+- Construct the ARIMA Model or Seasonal ARIMA based on the data
+- Use the model to make predictions
